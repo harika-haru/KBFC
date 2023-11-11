@@ -23,7 +23,6 @@ The final section is the Fan Zone, offering fans an opportunity to engage in fan
 
 - HTML
 - CSS
-- JavaScript
 
 ## Author
 
