@@ -2,9 +2,11 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: rgb(255, 255, 255);
 }
 nav {
     background-color: #013CA4; 
+    
 }
 
 ul {
@@ -21,6 +23,11 @@ li {
     padding: 10px;
     color: #CFCED6;
     font-family: 'Inter';
+    margin-top: 10px;
+}
+li:hover{
+    color: yellow;
+    cursor: pointer;
 }
 .content {
     display: flex;
@@ -49,6 +56,10 @@ button {
     border-radius: 5px;
     z-index:2;
     margin-left: -400px;
+    cursor: pointer;
+}
+button:hover{
+    scale: 1.1;
 }
 .box{
     width: auto;
@@ -56,7 +67,7 @@ button {
     background-color: #013CA4;
     font-family: 'Aleo';
     display: flex;
-    font-size: 29px;
+    font-size: 24px;
     color: white;
 }
 .team-container {
@@ -80,9 +91,12 @@ button {
     margin: 10px;
 }
 .text{
-    font-weight: 400px;
+    font-weight: 500px;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text:hover{
+    color: #d4bf00;
 }
 table {
     width: 80%;
