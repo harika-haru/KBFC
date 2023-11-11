@@ -15,7 +15,7 @@ The final section is the Fan Zone, offering fans an opportunity to engage in fan
    - Merchandise
    - Contact Us
 
-2. Explore match details, player profiles, and engage with fan zone activities.
+2. Explore match details, and player profiles, and engage with fan zone activities.
 
 3. Purchase tickets to upcoming matches and be a part of the excitement.
 
@@ -27,7 +27,7 @@ The final section is the Fan Zone, offering fans an opportunity to engage in fan
 
 ## Author
 
-Nakhate HArika
+Nakhate Harika
 
 ## Acknowledgments
 
